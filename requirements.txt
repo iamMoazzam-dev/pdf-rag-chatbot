@@ -1,0 +1,8 @@
+gradio
+pypdf
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+google-genai
+python-dotenv

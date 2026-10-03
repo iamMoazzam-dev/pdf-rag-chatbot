@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.gradio/
+
+data/*.pdf
+data/faiss.index
+data/chunks.pkl
